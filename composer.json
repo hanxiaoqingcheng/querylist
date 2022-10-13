@@ -1,11 +1,11 @@
 {
-    "name": "jaeger/querylist",
+    "name": "hanxiaoqingcheng/querylist",
     "description": "QueryList是基于phpQuery的无比强大的PHP采集工具",
     "keywords":["QueryList","phpQuery","spider"],
     "homepage": "http://querylist.cc",
     "require": {
         "PHP":">=5.3.0",
-        "hanxiaoqingcheng/phpquery-single": "^0.9"
+        "hanxiaoqingcheng/phpquery-single": "*"
     },
     "suggest":{
     	"monolog/monolog":"Log support"
